@@ -20,8 +20,8 @@ Acumular o valor gasto para depois calcular a média geral de gastos, com a segu
 Total gasto := total gasto + valor gasto
 Acumular o gasto maior:
 - Com bebidas;
-- - Com salgados;
-- - Com doces.
+ - Com salgados;
+ - Com doces.
 - Após finalizar a estrutura de repetição, calcule a média das idades e a média dos gastos  com as fórmulas abaixo:
 Média de idade := total de idade / quantidade de clientes
 Média de gasto := total de gasto / quantidade de clientes
